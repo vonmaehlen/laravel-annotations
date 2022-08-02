@@ -1,13 +1,13 @@
 {
-    "name": "laravelcollective/annotations",
+    "name": "vonmaehlen/laravel-annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
-    "homepage": "http://laravelcollective.com",
-    "support": {
-        "issues": "https://github.com/LaravelCollective/annotations/issues",
-        "source": "https://github.com/LaravelCollective/annotations"
-    },
+    "homepage": "https://vonmaehlen.com",
     "authors": [
+        {
+            "name": "Vincent Neubauer",
+            "email": "v.neubauer@vonmaehlen.com"
+        },
         {
             "name": "Adam Engebretson",
             "email": "adam@enge.me"
