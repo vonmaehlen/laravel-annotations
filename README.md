@@ -24,7 +24,7 @@
 Begin by installing this package through Composer. Edit your project's `composer.json` file to require `laravelcollective/annotations`.
 
     "require": {
-        "laravelcollective/annotations": "8.0.\*"
+        "vonmaehlen/laravel-annotations": "^9.0"
     }
 
 Next, update Composer from the Terminal:
