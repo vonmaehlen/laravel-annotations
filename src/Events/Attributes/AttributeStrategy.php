@@ -18,8 +18,8 @@ class AttributeStrategy implements ScanStrategyInterface
             fn (ReflectionAttribute $attribute) => $attribute->newInstance()->events,
             array_values(array_filter(
                 $method->getAttributes(),
-                fn($attribute) => is_a($attribute, Hears::class, true)
-            )),
+                fn(ReflectionAttribute $attribute) => $attribute->getName() === Hears::class)
+            ),
         );
     }
 }
