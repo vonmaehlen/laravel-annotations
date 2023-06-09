@@ -1,3 +1,8 @@
+# Abandoned
+
+This package is abandoned and should no longer be used.
+You may migrate to `spatie/laravel-route-attributes`.
+
 ## Annotations for The Laravel Framework
 
 [![Build Status](https://travis-ci.org/LaravelCollective/annotations.svg)](https://travis-ci.org/LaravelCollective/annotations)

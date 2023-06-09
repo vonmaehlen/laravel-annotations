@@ -3,6 +3,7 @@
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
     "homepage": "https://vonmaehlen.com",
+    "abandoned": "spatie/laravel-route-attributes",
     "authors": [
         {
             "name": "Vincent Neubauer",
